@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-FullStack Academy Request
-## There is nothing permanent, except change
-=======
 # FullStack Academy Request
-## To improve is to change
->>>>>>> main
+## To improve is to changeFullStack Academy Request
+## There is nothing permanent, except change
