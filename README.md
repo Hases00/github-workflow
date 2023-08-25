@@ -1,3 +1,2 @@
-# FullStack Academy Request
-## To improve is to changeFullStack Academy Request
+## To improve is to change
 ## There is nothing permanent, except change
